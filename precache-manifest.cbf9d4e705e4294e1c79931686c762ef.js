@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "3b2c2d481cf25d76c1f7",
-    "url": "/static/css/main.ebbc52c0.chunk.css"
+    "revision": "ed1c24c9dafb182223b6",
+    "url": "/static/css/main.d9eb9920.chunk.css"
   },
   {
-    "revision": "3b2c2d481cf25d76c1f7",
-    "url": "/static/js/main.63214ae0.chunk.js"
+    "revision": "ed1c24c9dafb182223b6",
+    "url": "/static/js/main.c10215a9.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "7431a88199e8ba6ccc40",
-    "url": "/static/js/2.2690e7dc.chunk.js"
+    "revision": "b844034cbf340f936ebf",
+    "url": "/static/js/2.076c82c9.chunk.js"
   },
   {
     "revision": "ce22684642587f94eb280d430d2abd5f",
@@ -60,15 +60,11 @@ self.__precacheManifest = [
     "url": "/static/media/twitter.f1ce1cdb.svg"
   },
   {
-    "revision": "59f2973cca6509f5c1fe19e7c42bb2e2",
-    "url": "/static/media/skills.59f2973c.svg"
-  },
-  {
     "revision": "bd5f82fc21a0d68f42415332e24ed9e4",
     "url": "/static/media/connect.bd5f82fc.svg"
   },
   {
-    "revision": "6ed2d403544d88105d68b9176738cc4c",
+    "revision": "64f722a890e3a34bd49dc0fe59903ad0",
     "url": "/index.html"
   }
 ];
